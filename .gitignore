@@ -1,0 +1,17 @@
+# Local Claude Code settings (machine-specific, not shared)
+.claude/settings.local.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Secrets — never commit App Store Connect keys or Play service accounts
+*.p8
+*.pem
+*service-account*.json
+.env
+.env.*
+!.env.example

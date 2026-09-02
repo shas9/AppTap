@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:developers.facebook.com)",
+      "WebFetch(domain:developers.google.com)",
+      "WebFetch(domain:docs.x.com)",
+      "WebFetch(domain:help.x.com)",
+      "WebFetch(domain:buffer.com)",
+      "WebFetch(domain:www.ayrshare.com)",
+      "WebFetch(domain:appfollow.io)"
+    ]
+  }
+}
